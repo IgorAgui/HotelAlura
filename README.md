@@ -66,6 +66,13 @@ primary key (id),
 foreign key (id_reserva) references reservas(id)
 );
 ```
+
+
+https://github.com/IgorAgui/HotelAlura/assets/129339453/86a34d94-d02d-4cdc-82af-af325e368ad6
+
+
+
+
 # FIM...
 
 
